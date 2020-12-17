@@ -27,4 +27,4 @@ Execute the demo program:
 cd ../bin/release
 export 
 LD_LIBRARY_PATH=$LD_LIBRARY_PATH:~/PATH_TO_WHERE_IT_IS/QtRptProject/bin/release/lib
-./QtRptDemo &
+./QtRptDemo &fdassfddasfd
